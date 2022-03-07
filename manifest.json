@@ -1,0 +1,9 @@
+{
+  "short_name": "Marker Previewer",
+  "name": "Marker Previewer demo-FCC",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
